@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00F5FF&height=200&section=header&text=HARIPRIYA%20VADREVU&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Reality"/>
 
 </div>
 
@@ -15,7 +15,7 @@
 - 👋 Hi, I'm **Haripriya Vadrevu**
 - 💻 Full Stack Developer passionate about building scalable applications.
 - 🚀 Interested in Full Stack Development and solving DSA problems.
-- 📊 Exploring Data Analytics, Business Intelligence, and data-driven solutions.
+- 📊 Exploring Data Analytics and Business Intelligence.
 - 🌱 Currently improving my skills in System Design & Cloud Architecture.
 - 🔭 Looking to collaborate on Open Source projects.
 - 📧 Email: [vadrevu.haripriya.mec23@itbhu.ac.in](mailto:vadrevu.haripriya.mec23@itbhu.ac.in)
@@ -74,9 +74,9 @@
 
 ### 📈 Analytics & Visualization
 
-![Microsoft Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
@@ -90,7 +90,7 @@
 
 ### 🗄️ Data Platforms
 
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -180,7 +180,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vadrevuharipriya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vadrevuharipriya&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Vadrevuharipriya&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadrevuharipriya&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
@@ -213,26 +213,6 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Vadrevuharipriya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%"/>
-
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Vadrevuharipriya&icon=7&color=11"/>
 
 </div>
 
